@@ -2,7 +2,19 @@ body {
     text-align: center;
     font-family: 'Arial';
     color: deeppink;    
+    
 
 
+}
+
+.container {
+    border: solid 1px;
+
+}
+
+
+#cabecera {
+
+    margin-left: 100px;
 
 }
