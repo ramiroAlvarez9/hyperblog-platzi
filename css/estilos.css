@@ -9,12 +9,12 @@ body {
 
 .container {
     border: solid 1px;
-
+    height: 330px;
 }
 
 
 #cabecera {
 
-    margin-left: 100px;
+    margin-left: 130px;
 
 }
